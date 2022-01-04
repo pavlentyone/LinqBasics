@@ -1,0 +1,7 @@
+c:\users\user-050716\documents\visual studio 2013\Projects\LinqBasics\LinqBasics\bin\Debug\LinqBasics.exe.config
+c:\users\user-050716\documents\visual studio 2013\Projects\LinqBasics\LinqBasics\bin\Debug\LinqBasics.exe
+c:\users\user-050716\documents\visual studio 2013\Projects\LinqBasics\LinqBasics\bin\Debug\LinqBasics.pdb
+c:\users\user-050716\documents\visual studio 2013\Projects\LinqBasics\LinqBasics\obj\Debug\LinqBasics.exe
+c:\users\user-050716\documents\visual studio 2013\Projects\LinqBasics\LinqBasics\obj\Debug\LinqBasics.pdb
+C:\Users\USeR-050716\Documents\Visual Studio 2013\Projects\LinqBasics\LinqBasics\obj\Debug\LinqBasics.csproj.AssemblyReference.cache
+C:\Users\USeR-050716\Documents\Visual Studio 2013\Projects\LinqBasics\LinqBasics\obj\Debug\LinqBasics.csproj.CoreCompileInputs.cache
